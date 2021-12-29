@@ -28,7 +28,7 @@
         </el-col>
         <el-col id="right-col" :xs="4" :sm="3" :md="3" :lg="3"
           ><a
-            href="https://github.com/zjtd/Catgis"
+            href="https://github.com/mutuyi/Catgis"
             target="_blank"
             rel="noopener noreferrer"
             ><img
@@ -46,7 +46,7 @@
       <el-row :gutter="4" class="el-row">
         <el-col id="m-LeftCol" :xs="4" :sm="3" :md="3">
           <a
-            href="https://github.com/zjtd/Catgis"
+            href="https://github.com/mutuyi/Catgis"
             target="_blank"
             rel="noopener noreferrer"
             ><img
