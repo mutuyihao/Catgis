@@ -1,0 +1,34 @@
+{
+    "name": "mapcorona",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "@mapbox/mapbox-gl-language": "^0.10.1",
+        "axios": "^0.21.1",
+        "babel": "^6.23.0",
+        "chokidar": "^2.1.8",
+        "echarts": "^5.0.2",
+        "element-ui": "^2.14.1",
+        "lodash": "^4.17.21",
+        "mapbox-gl": "^2.1.1",
+        "timeplayer": "0.0.4",
+        "vue": "^2.6.11",
+        "vue-router": "^3.2.0",
+        "vuex": "^3.6.2",
+        "vuex-along": "^1.2.13"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-router": "~4.5.0",
+        "@vue/cli-plugin-vuex": "~4.5.0",
+        "@vue/cli-service": "~4.5.0",
+        "html-loader": "^3.0.1",
+        "image-webpack-loader": "^7.0.1",
+        "json-loader": "^0.5.7",
+        "vue-template-compiler": "^2.6.11"
+    }
+}
