@@ -26,7 +26,6 @@
         "@vue/cli-plugin-router": "~4.5.0",
         "@vue/cli-plugin-vuex": "~4.5.0",
         "@vue/cli-service": "~4.5.0",
-        "html-loader": "^3.0.1",
         "image-webpack-loader": "^7.0.1",
         "json-loader": "^0.5.7",
         "vue-template-compiler": "^2.6.11"
